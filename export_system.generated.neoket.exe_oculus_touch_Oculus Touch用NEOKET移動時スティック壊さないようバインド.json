@@ -359,7 +359,7 @@
    },
    "category" : "steamvr_input",
    "controller_type" : "oculus_touch",
-   "description" : "右スティックを倒しながら中指クリップで移動する方法\n本来のグリップは X / Aボタンに移動しました。\n",
+   "description" : "右スティックを倒しながら中指グリップで移動する方法\n本来のグリップは X / Aボタンに移動しました。\n",
    "name" : "Oculus Touch用NEOKET移動時スティック壊さないようバインド",
    "options" : {},
    "simulated_actions" : []
