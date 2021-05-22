@@ -35,6 +35,6 @@ public class buttonHover : MonoBehaviour
       public void MouseOut()
       {
           CancelInvoke ("countDown");
-          timeRemaining ~ 5;
+          timeRemaining = 5;
       }
 }
